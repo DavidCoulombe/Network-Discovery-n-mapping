@@ -1,6 +1,8 @@
 # 🔍 Network Discovery & Mapping Tool
 
-A Python-based network discovery tool that scans subnets using multiple protocols and generates network topology diagrams.
+A Python-based network discovery tool that scans subnets using multiple protocols and generates network topology diagrams for Draw.io.
+
+Made using AI by "VibeCodding". Wokr in progress.
 
 ## Features
 
