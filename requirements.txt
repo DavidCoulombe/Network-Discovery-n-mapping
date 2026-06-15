@@ -1,0 +1,7 @@
+scapy>=2.5.0
+pysnmp>=6.0
+dnspython>=2.4
+networkx>=3.0
+matplotlib>=3.8
+pyvis>=0.3.2
+rich>=13.0
