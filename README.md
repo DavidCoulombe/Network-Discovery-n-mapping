@@ -2,7 +2,7 @@
 
 A Python-based network discovery tool that scans subnets using multiple protocols and generates network topology diagrams for Draw.io.
 
-Made using AI by "VibeCodding". Wokr in progress.
+Made using AI by "VibeCodding". Work in progress.
 
 ## Features
 
